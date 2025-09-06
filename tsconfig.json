@@ -17,6 +17,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/sections/Hero.jsx", "src/sections/SectionFour.jsx", "src/sections/SectionOne.jsx", "src/sections/SectionThree.jsx", "src/sections/SectionTwo.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/sections/Hero.jsx", "src/sections/SectionFour.jsx", "src/sections/SectionOne.jsx", "src/sections/SectionThree.jsx", "src/sections/SectionTwo.jsx", "src/components/CarrousselOne.jsx", "src/pages/_app.Jsx"],
   "exclude": ["node_modules"]
 }
