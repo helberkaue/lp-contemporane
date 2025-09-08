@@ -39,7 +39,7 @@ const CarrousselTwo = () => {
                 src={item.image}
                 alt={`Imagem ${item.id}`}
                 fill
-                className="object-cover transition-transform duration-500 group-hover:scale-110"
+                className="object-cover"
               />
             </div>
           </SwiperSlide>

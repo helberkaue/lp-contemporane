@@ -14,7 +14,7 @@ export default function Hero() {
       />
       <div className="relative mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8
                       min-h-[100svh] md:min-h-[100dvh] py-6 sm:py-10 lg:py-12
-                      text-white flex flex-col gap-12">
+                      text-white flex flex-col gap-64">
         <div className="flex justify-center">
           <Image
             src="/elements/Dobra 1 - Logo.png"

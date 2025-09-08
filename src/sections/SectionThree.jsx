@@ -27,7 +27,7 @@ export default function SectionThree() {
                 />
 
                 <Image
-                    src={"/elements/Dobra 6 Loc.JPG"}
+                    src={"/elements/Dobra 6 Loc.jpeg"}
                     width={700}
                     height={300}
                     alt="Localização"
