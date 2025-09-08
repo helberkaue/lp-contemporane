@@ -10,12 +10,12 @@ import "swiper/css/pagination";
 
 const data = [
   { id: "1", image: "/images2-carrossel/cena 01.png", title: "slide1" },
-  { id: "2", image: "/images2-carrossel/cena 02.png", title: "slide2" },
+  { id: "2", image: "/images2-carrossel/Cena 02.png", title: "slide2" },
   { id: "3", image: "/images2-carrossel/cena 03.png", title: "slide3" },
-  { id: "4", image: "/images2-carrossel/cena 4 (2).png", title: "slide4" },
+  { id: "4", image: "/images2-carrossel/Cena 4 (2).png", title: "slide4" },
   { id: "5", image: "/images2-carrossel/Academia - cena 1.png", title: "slide5" },
   { id: "6", image: "/images2-carrossel/Academia - cena 2.png", title: "slide6" },
-  { id: "7", image: "/images2-carrossel/Academia - cena 3.png", title: "slide7" },
+  { id: "7", image: "/images2-carrossel/Academia - Cena 3.png", title: "slide7" },
   { id: "8", image: "/images2-carrossel/Descomprensao 1.png", title: "slide8" },
   { id: "9", image: "/images2-carrossel/Descomprensao 2.png", title: "slide9" },
   { id: "10", image: "/images2-carrossel/Descomprensao 3.png", title: "slide10" },

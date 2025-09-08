@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section className="relative w-full">
       <Image
-        src="/images-bg/Dobra 1 - BG.png"
+        src="/images-bg/Dobra 1 BG.png"
         fill
         priority
         alt="Background"
