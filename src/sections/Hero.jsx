@@ -19,11 +19,11 @@ export default function Hero() {
 
         {/* Texto alinhado à direita */}
         <div className="flex-1 flex items-center justify-center md:justify-end">
-          <div className="max-w-4xl flex flex-col gap-4 md:p-32 sm:gap-6 text-center md:text-right">
+          <div className="max-w-4xl flex flex-col gap-4 md:p-32 md:px- sm:gap-6 text-center md:text-right">
             <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold leading-tight">
               O maior complexo empresarial de Alagoas
             </h1>
-            <p className="text-lg sm:text-xl md:text-2xl leading-snug">
+            <p className="text-xl sm:text-2xl md:text-3xl">
               O novo centro de negócios de Alagoas, integrando conveniência,
               estrutura de alto padrão e localização estratégica.
             </p>
